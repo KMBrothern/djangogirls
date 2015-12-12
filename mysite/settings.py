@@ -86,6 +86,9 @@ DATABASES = {
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
+LOGIN_REDIRECT_URL = '/'
+
+
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'US/Central'
