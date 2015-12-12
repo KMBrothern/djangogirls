@@ -26,7 +26,7 @@ I learned a lot this weekend about:
 All in all I had a great weekend and a great start to learning more about Python and Django. There were times when I may have gotten
 confused but instead of giving up, I would take a break, talk to my gifted rubber duck or read the docs. I am proud of myself for 
 finishing the entire tutorial and if you'd like to see the finished project feel free to go to 
-[My Django Blog](kmbrothern85.pythonanywhere.com/ " My Blog's Homepage")
+[My Django Blog](http://kmbrothern85.pythonanywhere.com/ " My Blog's Homepage")
 
 ###Thanks for visiting my repo!!
     
